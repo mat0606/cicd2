@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcicd_2=self.webpackChunkcicd_2||[]).push([[7013],{1182:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/cicd2/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
